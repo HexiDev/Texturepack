@@ -1,0 +1,4 @@
+type=item
+matchItems=carrot_on_a_stick
+texture=blueb.json
+nbt.display.Name=ipattern:blauw
